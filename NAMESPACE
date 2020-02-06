@@ -1,1 +1,2 @@
-exportPattern("^[[:alpha:]]+")
+##exportPattern("^[[:alpha:]]+")
+export(maak_geplotte_samenvatting_van_data, toon_data_in_excel)

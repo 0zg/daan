@@ -1,7 +1,7 @@
 Package: daan
 Type: Package
 Title: daan (DAta ANalisten tools)
-Version: 0.1.1
+Version: 0.1.2
 Author: oz
 Maintainer: beheer <ozg.smz@gmail.com>
 Description: Handige functies van de igw-club.
@@ -10,4 +10,4 @@ Depends: R (>= 3.3.3)
 License: MIT
 Encoding: UTF-8
 LazyData: true
-Imports: dplyr, stringr, Rcrawler, jsonlite, utils, readr, ggplot2, GGally
+Imports: dplyr, data.table, stringr, Rcrawler, jsonlite, utils, readr, ggplot2, GGally
